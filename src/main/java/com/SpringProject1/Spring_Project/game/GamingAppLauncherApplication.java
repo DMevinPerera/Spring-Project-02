@@ -1,7 +1,5 @@
-package com.SpringProject1.Spring_Project;
+package com.SpringProject1.Spring_Project.game;
 
-import com.SpringProject1.Spring_Project.game.GameRunner;
-import com.SpringProject1.Spring_Project.game.GamingConsole;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
