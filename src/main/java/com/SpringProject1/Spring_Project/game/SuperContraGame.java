@@ -1,5 +1,8 @@
 package com.SpringProject1.Spring_Project.game;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class SuperContraGame implements GamingConsole {
     public void up(){
         System.out.println("up");
